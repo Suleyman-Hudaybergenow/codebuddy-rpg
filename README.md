@@ -1,5 +1,9 @@
 # 🎮 CodeBuddy RPG
-
+<p align="center">
+  <a href="https://github.com/Suleyman-Hudaybergenow/codebuddy-rpg">
+    View Repository
+  </a>
+</p>
 <p align="center">
   <strong>Your coding journey, upgraded.</strong>
   <br />
@@ -63,7 +67,7 @@ The goal is to make coding sessions more engaging while encouraging productive h
 1. Clone this repository:
 
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone <https://github.com/Suleyman-Hudaybergenow/codebuddy-rpg>
    ```
 
 2. Navigate to the project directory:
